@@ -1,0 +1,90 @@
+[
+  {
+    "questionNo": "Q8",
+    "question": "In a survey of gardeners, everyone who liked roses also liked tulips. No one who liked sunflowers liked daisies. <br>Alice, Bob, Charlie, and Dana took part in the survey. <br>Which one of the following must be true?",
+    "options": [
+      "If Alice likes tulips, she also likes roses.",
+      "If Bob does not like daisies, he does not like sunflowers.",
+      "If Charlie likes roses, he likes tulips.",
+      "If Dana likes sunflowers, she does not like tulips."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9",
+    "question": "If a student passes the math test, then they attend the review session. All students who attended the session received a study guide. <br>Which one of the following cannot be true?",
+    "options": [
+      "A student who did not attend the session has not passed the test.",
+      "A student who did not receive a study guide attended the session.",
+      "A student who received a study guide attended the session.",
+      "A student who did not receive a study guide has not passed the math test."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "In a music competition, anyone who plays the piano also sings. No one who plays the violin can play the drums. <br>Which one of the following must be true?",
+    "options": [
+      "If John plays the violin, he cannot sing.",
+      "If Lisa sings, she plays the piano.",
+      "If Max plays the piano, he also plays violin.",
+      "If Nancy plays the drums, she cannot play the violin."
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q11",
+    "question": "If an employee exceeds sales targets, they receive a bonus. No employee with a bonus had low sales. <br>Which one of the following is not true?",
+    "options": [
+      "An employee with no bonus, has not exceeded his/her sales target.",
+      "An employee who exceeds their sales target, doesn’t have low sales.",
+      "An employee with a bonus has low sales.",
+      "An employee who has low sales did not have a bonus."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12",
+    "question": "In a game show, if a contestant guesses the right answer, they can play a bonus round. No contestant played a bonus round without guessing correctly. <br>Which one of the following must be false?",
+    "options": [
+      "If Tom guessed wrongly, he did not play the bonus round.",
+      "If Jerry did not play the bonus round, he guessed correctly.",
+      "If Carla guessed correctly, she played the bonus round.",
+      "If Diana did not play the bonus round, she guessed wrongly."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13",
+    "question": "In a library, all who read mystery novels also read thrillers. No one who reads poetry reads thrillers. <br>Which one of the following cannot be true?",
+    "options": [
+      "Liam reads thrillers and does not read poetry.",
+      "Jack reads mystery novels and thrillers.",
+      "Emma reads poetry and thrillers.",
+      "Nora does not read thrillers nor mystery novels."
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q14",
+    "question": "During a sports festival, anyone who played soccer also participated in basketball. No one who swam participated in soccer. <br>Which one of the following is not possible?",
+    "options": [
+      "Someone who does not participate in basketball did not play soccer.",
+      "Someone who swam also played soccer.",
+      "Someone who played soccer also participated in basketball.",
+      "Someone who participated in soccer, did not participate in swimming."
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q15",
+    "question": "If a car is a sports model, then it is fast. No slow cars are sports models. <br>Which one of the following must be true?",
+    "options": [
+      "If a car is not fast, it is not a sports model.",
+      "If a car is slow, it may be a sports model.",
+      "If a car is a sports model, it may be slow.",
+      "If a car is fast, it is a sports model."
+    ],
+    "correct": 0
+  }
+]
